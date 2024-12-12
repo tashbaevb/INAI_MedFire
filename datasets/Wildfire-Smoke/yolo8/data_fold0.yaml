@@ -1,0 +1,7 @@
+names:
+- smoke
+nc: 1
+train: "/Users/baiturtashbaev/Documents/\u0411\u0430\u0438\u0306\u0442\u0443\u0440\
+  /Projects/Course Arbeit/INAI_MedFire/datasets/Wildfire-Smoke/yolo8/train_fold0.csv"
+val: "/Users/baiturtashbaev/Documents/\u0411\u0430\u0438\u0306\u0442\u0443\u0440/Projects/Course\
+  \ Arbeit/INAI_MedFire/datasets/Wildfire-Smoke/yolo8/val_fold0.csv"

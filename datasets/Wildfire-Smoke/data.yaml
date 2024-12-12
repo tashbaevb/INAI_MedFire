@@ -1,6 +1,5 @@
 train: /Users/baiturtashbaev/Documents/Байтур/Projects/Course Arbeit/INAI_MedFire/datasets/Wildfire-Smoke/train
 val: /Users/baiturtashbaev/Documents/Байтур/Projects/Course Arbeit/INAI_MedFire/datasets/Wildfire-Smoke/valid
-test: /Users/baiturtashbaev/Documents/Байтур/Projects/Course Arbeit/INAI_MedFire/datasets/Wildfire-Smoke/test
 
 nc: 1
 names: ['smoke']
